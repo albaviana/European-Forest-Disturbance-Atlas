@@ -8,3 +8,5 @@ The European Forest Disturbance Atlas data is freely accessible under https://do
 Summary layers are accessible through Google Earth Engine in ee.Assets.latest_disturbance_v211, ee.Assets.number_disturbances_v211, ee.Assets.disturbance_agent_v211. 
 The maps can be also explored online: https://albaviana.users.earthengine.app/view/european-forest-disturbance-map. 
 Code used for processing the Landsat data using FORCE is available in https://github.com/davidfrantz/force. 
+
+Full methods are explained in: Viana-Soto, A., & Senf, C. (2025). The European Forest Disturbance Atlas: a forest disturbance monitoring system using the Landsat archive. Earth System Science Data, 17(6), 2373-2404. https://doi.org/10.5194/essd-17-2373-2025
